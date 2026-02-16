@@ -22,12 +22,25 @@ body{
     background-color: rgb(242, 185, 53);
     margin-left: 50%;
 }
+
 .btn2{
     border: none;
-    background: linear-gradient(125deg,rgb(232, 253, 74),rgb(245, 194, 78),rgb(217, 160, 3));
+    background: linear-gradient(125deg,rgb(236, 217, 11),rgb(244, 199, 94),rgb(247, 143, 39));
 }
 .btn1:hover{
     background-color: rgb(250, 166, 64);
 
 }
+.one{
+    height: 100px;
+}
+.two a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+.three{
+    margin-top: 30px;
+}
+
 
